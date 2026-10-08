@@ -46,3 +46,5 @@ C:\Users\B217\Downloads\week-7-main\week-7-main\StoryGameApp\obj\Debug\net10.0-w
 C:\Users\B217\Downloads\week-7-main\week-7-main\StoryGameApp\obj\Debug\net10.0-windows\ref\StoryGameApp.dll
 C:\Users\B217\Downloads\week-7-main\week-7-main\StoryGameApp\bin\Debug\net10.0-windows\Assets\Images\05.png
 C:\Users\B217\Downloads\week-7-main\week-7-main\StoryGameApp\bin\Debug\net10.0-windows\Assets\Images\02.png
+C:\Users\B217\Downloads\week-7-main\week-7-main\StoryGameApp\bin\Debug\net10.0-windows\Assets\Images\06.png
+C:\Users\B217\Downloads\week-7-main\week-7-main\StoryGameApp\bin\Debug\net10.0-windows\Assets\Images\07.png
